@@ -1,6 +1,6 @@
 class maintext {
     public static void main(String[] args) {
-        System.out.println("java is so fucking complicated i think it's gonna make GOO leak out of my FUCKING ears");
+        System.out.println("java is so damn complicated i think it's gonna make GOO leak out of my ears");
     }
 }
-// HELP
+// Coding in java sometimes makes me genuinely sick but I will not rewrite any of my code
